@@ -6,7 +6,10 @@ Repository dedicata allo studio delle basi di Java attraverso esercizi progressi
 
 ```text
 java-fundamentals/
-├── 01-basi/
-│   ├── HelloWorld.java
-│   └── TipiVariabili.java
-└── README.md
+└── 01-basi/
+    ├── Es01HelloWorld.java
+    ├── Es02TipiVariabili.java
+    └── Es03ArrayGiorniMese.java
+    ├── Es04ArrayNome.java
+    └── Es05GiorniSettimanaNome.java
+```
